@@ -1,3 +1,3 @@
 # gestion_commerciale
-have four table :
+have four tables :
 client - order - product -detailOrder
